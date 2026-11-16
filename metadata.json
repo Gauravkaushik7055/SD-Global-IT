@@ -1,0 +1,6 @@
+{
+  "name": "LogiCore IT Support CRM",
+  "description": "Enterprise IT helpdesk, asset, budget, and SLA management system for SD Global Logistics across warehouses, branches, hubs, and corporate offices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
