@@ -1,4 +1,4 @@
-# LogiCore IT Support CRM — SD Global Logistics
+# SD Global IT Support CRM — SD Global Logistics
 
 Enterprise IT helpdesk, asset inventory, budget & expense approval, and SLA governance platform built for SD Global Logistics across warehouses, distribution centers, cold-chain branches, port hubs, and corporate offices.
 
